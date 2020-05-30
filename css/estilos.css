@@ -35,6 +35,11 @@ body
     width: 20px;
     vertical-align: middle;
 }
+#post #foto
+{
+    width: 40%;
+    vertical-align: middle;
+}
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
