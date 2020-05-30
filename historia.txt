@@ -7,15 +7,14 @@ hoy hablararemos de su hisotoria
 
 es una persona alta
 
-<<<<<<< HEAD
+
 Master 1
 
 Master 2
-=======
+
 experimiento 1
 
-Mster 1
->>>>>>> 0ebf782... Experimiento
+experimiento 2
 
 hoy es un programador mas porque ya no es coordinador
 
